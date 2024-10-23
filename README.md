@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **s.srikanthreddy1031@gmail.com**
 
-- Resume [https://drive.google.com/file/d/18_pU3HO5FGlmkySbSYDkpcSYbmc0vsRx/view?usp=sharing](https://drive.google.com/file/d/18_pU3HO5FGlmkySbSYDkpcSYbmc0vsRx/view?usp=sharing)
+- Resume [https://drive.google.com/file/d/1x_FjnMGnZkEB1zoVaFN-9I62MVbPNKXy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

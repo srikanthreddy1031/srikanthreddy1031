@@ -1,4 +1,4 @@
-![logo](https://github.com/srikanthreddy1031/srikanthreddy1031/blob/main/backgroung.jpg)
+![logo]([https://github.com/srikanthreddy1031/srikanthreddy1031/blob/main/backgroung.jpg](https://github.com/srikanthreddy1031/srikanthreddy1031/blob/main/54dd2a6c17f894e233848e18eaa242d9.jpg))
 <h1 align="center">Hi 👋, I'm Srikanth Reddy</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
